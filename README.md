@@ -36,7 +36,7 @@ Google Books API, GraphQL, Apollo Server, React.js, MongoDB, Node.js, Express.js
   
 ## License
 
-MIT License
+MIT License 
 
 Copyright (c) 2023 saramangelo
 
