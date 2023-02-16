@@ -23,7 +23,7 @@ MERN stack book search application that utilizes Google Books API, GraphQL with 
   - [Questions](#questions)
   
 ## Installation
-Enter URL in browser.
+Enter [this url](https://got-books.herokuapp.com/) in browser.
   
   
 ## Usage
